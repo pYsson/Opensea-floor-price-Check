@@ -27,6 +27,7 @@ ex) ```!floor metakongz```
 
 ## Site List
 - opensea.json 파일을 참고
+  -  원하는 프로젝트가 있을시 양식에 맞게 
 - 현재 기본으로 등록된 리스트
 > metakongz   =>    [THE META KONGZ](https://opensea.io/collection/the-meta-kongz)  
 > eleckongz   =>    [ElectroPixelKongz](https://opensea.io/collection/electropixelkongz)  
