@@ -17,6 +17,8 @@
 
     1-1. floorcheck.py 파일 내 디스코드 봇 토큰 입력  
 2. 봇 토큰 입력  
+<img width="776" alt="terminal" src="https://user-images.githubusercontent.com/97378861/148895817-e8f52cbc-b5c8-409e-bd42-8afe3532472c.png">  
+
 - 서버 내 백그라운드 실행하고 싶은 경우 (봇 토큰 미리 입력 필수)  
 ```nohup python3 floorcheck.py &``` or ```nohup python floorcheck.py &```
 
