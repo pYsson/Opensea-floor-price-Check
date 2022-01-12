@@ -26,7 +26,10 @@ def parseEmbed(data, eth, klay):
     embed.add_field(name="**바닥 가격 (ETH)**", value="{:,}".format(fp) + " ETH", inline=False)
     embed.add_field(name="**바닥 가격 (KLAY)**", value="{:,}".format(klayPrice) + " KLAY", inline=False)
     embed.add_field(name="**바닥 가격 (KRW)**", value="{:,}".format(krwprice) + " 원", inline=False)
-    embed.set_thumbnail(url=data['logo'])
+    if data['logo'] is None:
+      embed.set_thumbnail(url=footer_img)
+    else:
+      embed.set_thumbnail(url=data['logo'])
     embed.set_footer(text="Powered By pYsson#3604", icon_url=footer_img)
   except:
     embed = discord.Embed(title="**Failed to get Info!**", description="", color=0x000000)

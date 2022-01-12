@@ -1,44 +1,50 @@
 {
-  "metakongz": {
-    "name": "THE META KONGZ",
-    "url": "https://opensea.io/collection/the-meta-kongz",
-    "apiUrl": "https://api.opensea.io/api/v1/collection/the-meta-kongz/stats",
-    "logo": "https://lh3.googleusercontent.com/AX_uuKN-OFhtHXtzw5PJ3K-bGW5tg2svacBEv8xO_ii3UCEo6UTjqec4MiXFGP3gsxPD-p-W0d315pEvIOxG3pKNWfT3G8KvAgIl=s0"
-  },
-  "eleckongz": {
-    "name": "ElectroPixelKongz",
-    "url": "https://opensea.io/collection/electropixelkongz",
-    "apiUrl": "https://api.opensea.io/api/v1/collection/electropixelkongz/stats",
-    "logo": "https://lh3.googleusercontent.com/XF6S6Po7Q0fL_X2i2vGbtz103VhKNpnGs7BR1UA3I7m4vVnu2yT_DnjWG-wNGlPOZNV1bICJgF2OmXCfd2AsqxzU0QMv9glHKdoG=s0"
-  },
-  "slime": {
-    "name": "SlimeFarm_nft",
-    "url": "https://opensea.io/collection/slimefarm-nft",
-    "apiUrl": "https://api.opensea.io/api/v1/collection/slimefarm-nft/stats",
-    "logo": "https://lh3.googleusercontent.com/NITfI34f0fl5EkxD5R-NwEfs1t9wcObehbXEcE-sipUWtVMm1wCF5m_vswV_QuYRt7_i9yhBkE5Rr9T3gr-2iDQ53T2J2DO6ojWjlQ=s130"
-  },
-  "metacat": {
-    "name": "META CATS V1",
-    "url": "https://opensea.io/collection/meta-cats-v1",
-    "apiUrl": "https://api.opensea.io/api/v1/collection/meta-cats-v1/stats",
-    "logo": "https://lh3.googleusercontent.com/bOft8zpI_3wqsdiCbRUh0AMQVu14kU7cJCaF65XCZ_n1F6JWQNRUX7wAu5OwHTHud0-a9zAYQxb-fn2VDf_JMqkk2ehnPA3ltA_f0g=s130"
-  },
-  "cyberthug": {
-    "name": "CyberTHUG V2",
-    "url": "https://opensea.io/collection/cyberthug-v2",
-    "apiUrl": "https://api.opensea.io/api/v1/collection/cyberthug-v2/stats",
-    "logo": "https://cdn.discordapp.com/icons/923850727464513566/e3ac5acab0d8710614b16f7e46150293.webp?size=240"
-  },
-  "spoon": {
-    "name": "Project Spoon DAO",
-    "url": "https://opensea.io/collection/project-spoon-dao",
-    "apiUrl": "https://api.opensea.io/api/v1/collection/project-spoon-dao/stats",
-    "logo": "https://lh3.googleusercontent.com/y3ZKplRd6XdgQw_AzzJ-JByWd-yyiD1vOxN-bRQt-qyLdKioxpjDX-_1y5zzG_rMcA_jKML68xh8fUMhI2B5V8xDqRLqjyP2yyhv=s130"
-  },
-  "k3k": {
-    "name": "Klay 3 Kingdoms",
-    "url": "https://opensea.io/collection/klay-3-kingdoms",
-    "apiUrl": "https://api.opensea.io/api/v1/collection/klay-3-kingdoms/stats",
-    "logo": "https://lh3.googleusercontent.com/q8r6C2147ULAXtKRtL1yOFIG-4SUiqDWMfC-4bgrNoC_y5tRwmMrjk-Sxbojj5RuOxrPkOKHHNLPKWNGGfqZ0YbYoM7oSnELX6E1=s130"
-  }
+    "metakongz": {
+        "name": "THE META KONGZ",
+        "url": "https://opensea.io/collection/the-meta-kongz",
+        "apiUrl": "https://api.opensea.io/api/v1/collection/the-meta-kongz/stats",
+        "logo": "https://lh3.googleusercontent.com/AX_uuKN-OFhtHXtzw5PJ3K-bGW5tg2svacBEv8xO_ii3UCEo6UTjqec4MiXFGP3gsxPD-p-W0d315pEvIOxG3pKNWfT3G8KvAgIl=s0"
+    },
+    "eleckongz": {
+        "name": "ElectroPixelKongz",
+        "url": "https://opensea.io/collection/electropixelkongz",
+        "apiUrl": "https://api.opensea.io/api/v1/collection/electropixelkongz/stats",
+        "logo": "https://lh3.googleusercontent.com/XF6S6Po7Q0fL_X2i2vGbtz103VhKNpnGs7BR1UA3I7m4vVnu2yT_DnjWG-wNGlPOZNV1bICJgF2OmXCfd2AsqxzU0QMv9glHKdoG=s0"
+    },
+    "slime": {
+        "name": "SlimeFarm_nft",
+        "url": "https://opensea.io/collection/slimefarm-nft",
+        "apiUrl": "https://api.opensea.io/api/v1/collection/slimefarm-nft/stats",
+        "logo": "https://lh3.googleusercontent.com/NITfI34f0fl5EkxD5R-NwEfs1t9wcObehbXEcE-sipUWtVMm1wCF5m_vswV_QuYRt7_i9yhBkE5Rr9T3gr-2iDQ53T2J2DO6ojWjlQ=s130"
+    },
+    "metacat": {
+        "name": "META CATS V1",
+        "url": "https://opensea.io/collection/meta-cats-v1",
+        "apiUrl": "https://api.opensea.io/api/v1/collection/meta-cats-v1/stats",
+        "logo": "https://lh3.googleusercontent.com/bOft8zpI_3wqsdiCbRUh0AMQVu14kU7cJCaF65XCZ_n1F6JWQNRUX7wAu5OwHTHud0-a9zAYQxb-fn2VDf_JMqkk2ehnPA3ltA_f0g=s130"
+    },
+    "cyberthug": {
+        "name": "CyberTHUG V2",
+        "url": "https://opensea.io/collection/cyberthug-v2",
+        "apiUrl": "https://api.opensea.io/api/v1/collection/cyberthug-v2/stats",
+        "logo": "https://cdn.discordapp.com/icons/923850727464513566/e3ac5acab0d8710614b16f7e46150293.webp?size=240"
+    },
+    "spoon": {
+        "name": "Project Spoon DAO",
+        "url": "https://opensea.io/collection/project-spoon-dao",
+        "apiUrl": "https://api.opensea.io/api/v1/collection/project-spoon-dao/stats",
+        "logo": "https://lh3.googleusercontent.com/y3ZKplRd6XdgQw_AzzJ-JByWd-yyiD1vOxN-bRQt-qyLdKioxpjDX-_1y5zzG_rMcA_jKML68xh8fUMhI2B5V8xDqRLqjyP2yyhv=s130"
+    },
+    "k3k": {
+        "name": "Klay 3 Kingdoms",
+        "url": "https://opensea.io/collection/klay-3-kingdoms",
+        "apiUrl": "https://api.opensea.io/api/v1/collection/klay-3-kingdoms/stats",
+        "logo": "https://lh3.googleusercontent.com/q8r6C2147ULAXtKRtL1yOFIG-4SUiqDWMfC-4bgrNoC_y5tRwmMrjk-Sxbojj5RuOxrPkOKHHNLPKWNGGfqZ0YbYoM7oSnELX6E1=s130"
+    },
+    "syltare": {
+        "name": "SYLTARE-OFFICIAL",
+        "url": "https://opensea.io/collection/syltare-official",
+        "apiUrl": "https://api.opensea.io/api/v1/collection/syltare-official/stats",
+        "logo": "https://lh3.googleusercontent.com/lcXcfNgUx8vvXooaTe2pnxmWvw6dEL-qcCvYB8jlczSEN7v5V4gezxPevIGtGO7yZw4W4wns0zTJXMiiuHpzgfv-DEqF1PLrjUKJ9VE=s130"
+    }
 }
