@@ -25,7 +25,11 @@
 ## Command
 - !floor 프로젝트명  
 ex) ```!floor metakongz```  
-<img width="381" alt="floorcheck" src="https://user-images.githubusercontent.com/97378861/148893847-4382861b-6b0e-4d58-a049-de159cd981e1.png">
+<img width="381" alt="floorcheck" src="https://user-images.githubusercontent.com/97378861/148893847-4382861b-6b0e-4d58-a049-de159cd981e1.png">  
+
+- !fadd 프로젝트명 프로젝트-공식-오픈씨주소  
+ex) ```!fadd syltare https://opensea.io/collection/syltare-official```  
+<img width="527" alt="스크린샷 2022-01-16 오전 12 35 52" src="https://user-images.githubusercontent.com/97378861/149627635-da09ff89-a002-4fdb-8556-876c74dd4929.png">  
 
 ## Site List
 - opensea.json 파일을 참고
